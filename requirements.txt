@@ -1,4 +1,4 @@
-Gunicorn3
+gunicorn3
 alembic==1.6.5
 bcrypt==3.2.0
 Bcrypt-Flask==1.0.2
